@@ -1,0 +1,118 @@
+.navbar {
+    display: none;
+}
+
+
+/*.hd-al-mn,
+.hd-al-sd {
+    display: flex;
+    justify-content: center;
+}
+
+
+.pl-lg-4,
+.px-lg-4 {
+   
+    position: relative;
+    left: 185px;
+}
+
+.hd-al-mn {
+    margin-top: 45px;
+    font-size: 20px;
+    color: #f34d28;
+}
+
+.hd-al-sd {
+    margin-top: 15px;
+    font-size: 15px;
+    color: #8f8484;
+}*/
+
+.text-center {
+    text-align: left !important;
+}
+
+.btn-primary {
+    background-color: #f34d28;
+    border-radius: unset;
+    border: none;
+}
+
+.btn {
+    padding: 0.625rem 7.95rem;
+}
+
+.brd-ln {
+    /*border-left: 1px solid red;*/
+}
+
+
+/*.frm-al {
+    margin-left: 337px;
+    margin-top: 30px;
+}*/
+
+.form-control {
+    width: 290px;
+}
+
+.card-body {
+    background: #f7e1df70;
+    display: flex;
+    justify-content: center;
+}
+
+.hd-lst {
+    color: #f34d28;
+}
+
+.col {
+    max-width: 80% !important;
+}
+
+
+/*.bg-secondary {
+    position: relative;
+    left: 122px;
+}*/
+
+.lg-im-st {
+    width: 476px;
+    height: 413px;
+}
+
+.pl-lg-4,
+.px-lg-4 {
+    padding-left: 4.5rem !important;
+}
+
+.sb-dv-cn {
+    border-left: 1px solid lightgrey;
+    margin-left: 4pc;
+}
+
+.hd-al-mn {
+    padding: 10px;
+    font-size: 20px;
+    color: #f34d28;
+}
+
+.hd-al-sd {
+    padding: 8px 81px;
+    font-size: 15px;
+    color: #8f8484;
+}
+
+.frm-al {
+    padding-top: 26px;
+}
+
+input:hover {
+    border: 1px solid dodgerblue;
+}
+
+.bg-secondary {
+    position: relative;
+    left: 122px;
+}
