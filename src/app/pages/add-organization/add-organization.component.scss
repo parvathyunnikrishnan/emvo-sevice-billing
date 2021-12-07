@@ -1,0 +1,71 @@
+.card {
+    margin-top: 200px;
+}
+
+.row {
+    flex-wrap: unset;
+}
+
+.card-body {
+    margin-right: 134px;
+}
+
+.card .bg-secondary .shadow {}
+
+.footer {
+    display: none;
+}
+
+.col-xl-8 {
+    flex: 24 0 66.6666666667%;
+}
+
+.order-xl-2 {
+    display: none;
+}
+
+.heading-small {
+    padding-top: 9.25rem;
+}
+
+.btn-stl {
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    cursor: pointer;
+    left: 344px;
+    padding-left: 157px;
+}
+
+.up-1-bn {
+    border: 1px solid green;
+    padding: 7px;
+    border-radius: 6px;
+    color: green;
+}
+
+.cl-lvl {
+    border: 1px solid blue;
+    padding: 7px;
+    border-radius: 6px;
+    color: blue;
+}
+
+.rd-st {
+    border: 1px solid red;
+    padding: 7px;
+    border-radius: 6px;
+    color: red;
+}
+
+.le-mj {
+    border: 1px solid magenta;
+    padding: 7px;
+    border-radius: 6px;
+    color: magenta;
+}
+
+.form-control-alternative {
+    border: 1px solid dodgerblue;
+    box-shadow: none;
+}
